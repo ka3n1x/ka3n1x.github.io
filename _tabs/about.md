@@ -48,13 +48,13 @@ Here’s a collection of my standout performances across local, regional, and gl
 
 ### 🥈 **2nd Place**
 
+- **ECOWAS CTF 2026**
+- **INTERPOL DSC CYBER GAME 2026**
+- **PERFECT ROOT 2026**
 - **ECOWAS CTF 2024**
 - **JerseyCTF 2024**
 - **Buckeye CTF 2023**
 - **BlueHens CTF 2023**
-- **ECOWAS CTF 2026**
-- **INTERPOL DSC CYBER GAME 2026**
-- **PERFECT ROOT 2026**
 
 
 ### 🥉 **3rd Place**
@@ -98,16 +98,18 @@ Graduated with a Bachelor in Software Engineering from Epitech Technology, Benin
 
 ### Certifications
 
-- CAPE (Certified Active Purple-team Expert) - HackTheBox
 - Maldev Certified - Maldev Academy
+- CAPE (Certified Active Purple-team Expert) - HackTheBox
+- CDSA (Certified Defensive Security Analyst) - HackTheBox
+- CBBH (Certified Bug Bounty Hunter) - HackTheBox
+- CPTS (Certified Penetration Tester Specialist) - HackTheBox
 
 ### Certifications Loading…
 
 Currently unlocking some next-level badges:
 
-- CDSA (Certified Defensive Security Analyst) - HackTheBox  
-- CBBH (Certified Bug Bounty Hunter) - HackTheBox
-- CPTS (Certified Penetration Tester Specialist) - HacktheBox
+- GCTI (GIAC Cyber Threat Intelligence) - SANS/GIAC
+- OSED (Offensive Security Exploit Developer) - OffSec
 
 Stay tuned-more achievements incoming. Game on.
 
