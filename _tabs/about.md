@@ -89,6 +89,13 @@ Here’s a collection of my standout performances across local, regional, and gl
 > - [Bilan European Cybercup Lille](https://www.epitech.eu/2023/04/14/des-etudiants-epitech-dans-la-peau-de-cybercombattants-a-leuropean-cybercup-2023/)
 > - [HackDay CTF Qualifications](https://epitech.bj/etudiants-epitech-benin-hackent-hack-day-cybersecurite/)
 > - [HackerLab 2024](https://asin.bj/article/23/hackerlab-2024-meilleurs-competition-recompenses/)
+> - [Finale du HackerLab 2024 : Aurel Azon decroche le premier prix](https://lanation.bj/numerique/finale-du-hackerlab-2024-plusieurs-talents-reveles-aurel-azon-decroche-le-premier-prix)
+> - [ApeItek decroche la 5e place de l'European CyberCup 2024](https://www.epitech.eu/2024/04/26/apeltek-decroche-la-5e-place-de-leuropean-cybercup-2024/)
+> - [Cloture du HackerLab 2024 : talents beninois recompenses](https://cybersecuritymag.africa/hackerlab-2024-des-talents-beninois-en-cybersecurite-recompenses-cotonou/)
+> - [HackerLab 2024 : le nombre d'ethical hackers beninois s'agrandit](https://cio-mag.com/hackerlab-2024-le-nombre-dethicals-hackers-beninois-sagrandit/)
+> - [Escadron (Benin) finit 2e - ECOWAS Hackathon 2026](https://www.adomonline.com/nigeria-wins-4th-ecowas-regional-cybersecurity-hackathon-2026-in-accra/)
+> - [ECOWAS Hackathon 2026 - MyJoyOnline](https://www.myjoyonline.com/nigeria-clinches-10000-grand-prize-as-4th-ecowas-regional-cybersecurity-hackathon-2026-ends-in-accra/)
+> - [ApeItek a l'European CyberCup 2023 - Video](https://www.youtube.com/watch?v=jglbfNLxkdY)
 
 ---
 
