@@ -8,7 +8,7 @@ order: 4
 
 I break things for a living. Sometimes I even get trophies for it.
 
-Known in the cyber arenas as **ka3n1x** or **0x4n6**, I captain **M3V7R** and **Escadron** (Benin), competed with **ApeItek** (Europe) and **l3ak**, and I'm currently the **2nd HackTheBox Ambassador in Benin**. Epitech alumni, former president of **Cybersec Epihack** (retired undefeated, obviously), now specializing in **Purple Team** - because choosing between red and blue is for people who can't multitask.
+Known in the cyber arenas as **ka3n1x** or **0x4n6**, I captain **M3V7R** and **Escadron** (Benin), competed with **ApeItek** (Europe) and **[l3ak](https://l3ak.team/)**, and I'm currently the **2nd HackTheBox Ambassador in Benin**. Epitech alumni, former president of **Cybersec Epihack** (retired undefeated, obviously), now specializing in **Purple Team** - because choosing between red and blue is for people who can't multitask.
 
 My day-to-day? **Red Team**, **CTI**, **hardware hacking**, and drawing things that have nothing to do with cybersecurity. I dismantle systems, analyze every gear, rebuild them my way, and occasionally pick locks faster than I find my keys.
 
