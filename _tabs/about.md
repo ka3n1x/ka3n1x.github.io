@@ -40,10 +40,10 @@ Flags captured across **Africa**, **Europe**, and the **international CTF circui
 
 ### 🥇 1st Place
 
-- **PICOCTF Africa 2025**
-- **HackerLab 2024**
-- **UMassCTF 2024**
-- **Cyberlympics Africa 2023**
+- **PICOCTF AFRICA 2025**
+- **HACKERLAB 2024**
+- **UMASSCTF 2024**
+- **CYBERLYMPICS AFRICA 2023**
 
 
 ### 🥈 2nd Place
@@ -52,30 +52,30 @@ Flags captured across **Africa**, **Europe**, and the **international CTF circui
 - **INTERPOL DSC CYBER GAME 2026**
 - **PERFECT ROOT 2026**
 - **ECOWAS CTF 2024**
-- **JerseyCTF 2024**
-- **Buckeye CTF 2023**
-- **BlueHens CTF 2023**
+- **JERSEYCTF 2024**
+- **BUCKEYE CTF 2023**
+- **BLUEHENS CTF 2023**
 
 
 ### 🥉 3rd Place
 
-- **SunshineCTF 2023**
-- **UoTCTF 2023**
+- **SUNSHINECTF 2023**
+- **UOTCTF 2023**
 
 
 ### 🏅 Top 4-15 Finishes
 
-- **European CyberCup 2024** - 2nd Place (Hardware)
-- **HackerLab 2023** - 4th Place
-- **WolvCTF 2024** - 4th Place
+- **EUROPEAN CYBERCUP 2024** - 2nd Place (Hardware)
+- **HACKERLAB 2023** - 4th Place
+- **WOLVCTF 2024** - 4th Place
 - **UTCTF 2024** - 5th Place
 - **SQUARE CTF 2023** - 7th Place
-- **European CyberCup 2023** - 7th Place (CTF)
-- **IrisCTF 2024** - 8th Place
-- **0xL4ugh CTF 2024** - 10th Place
-- **HTB University CTF 2022** - 13th Place
-- **HeroCTF 2024** - 14th Place
-- **Cyber Apocalypse 2024 (HTB)** - 14th Place
+- **EUROPEAN CYBERCUP 2023** - 7th Place (CTF)
+- **IRISCTF 2024** - 8th Place
+- **0XL4UGH CTF 2024** - 10th Place
+- **HTB UNIVERSITY CTF 2022** - 13th Place
+- **HEROCTF 2024** - 14th Place
+- **CYBER APOCALYPSE 2024 (HTB)** - 14th Place
 
 *The list keeps growing. Your scoreboard has been warned.*
 
