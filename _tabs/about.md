@@ -82,7 +82,7 @@ Flags captured across **Africa**, **Europe**, and the **international CTF circui
 ---
 
 ## 📰 They're talking about me here 👇
-
+> - [Found my first CVE : Waiting for CVE ID](https://blog.spip.net/Mise-a-jour-critique-de-securite-sortie-de-SPIP-4-4-18.html)
 > - [Aurel Azon, porte-etendard d'EPITECH Benin a l'European CyberCup](https://epitech.bj/aurel-azon-porte-etendard-epitech-benin-european-cybercup/)
 > - [M3V7R - Cyberlympics 2023, nouvel accomplissement](https://epitech.bj/cyberlympics-2023-nouvel-accomplissement-des-etudiants-depitech-benin/)
 > - [Le Benin (M3V7R) remporte le 2e prix du Hackathon CEDEAO](https://www.24haubenin.info/?Le-Benin-remporte-le-2e-prix-du-Hackathon-CEDEAO)
