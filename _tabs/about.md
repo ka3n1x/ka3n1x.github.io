@@ -14,6 +14,21 @@ My day-to-day? **Red Team**, **CTI**, **hardware hacking**, and drawing things t
 
 ---
 
+## 🔓 Vulnerability Research & CVEs
+
+When I'm not competing, I hunt bugs in real-world software. Here's what's landed so far:
+
+| CVE | Product | Class | Severity |
+|-----|---------|-------|----------|
+| [CVE-2026-72695](https://www.cve.org/CVERecord?id=CVE-2026-72695) | Grav (< 2.0.16) | Path Traversal | -- |
+| [CVE-2026-94382](https://www.cve.org/CVERecord?id=CVE-2026-94382) | Beszel (< 0.19.0) | IDOR | -- |
+| [CVE-2026-72708](https://www.cve.org/CVERecord?id=CVE-2026-72708) | SPIP (< 4.4.18) | Blind SQL Injection | CVSS 4.0: 8.7 High |
+| [CVE-2026-109378](https://www.cve.org/CVERecord?id=CVE-2026-109378) | SPIP (< 4.4.18) | SSRF via HTTP Redirect | CVSS 4.0: 5.3 Medium |
+| [CVE-2026-105645](https://github.com/advisories?query=CVE-2026-105645) | Ghost | ReDoS (CSS inliner) | -- |
+| [CVE-2026-105646](https://github.com/advisories?query=CVE-2026-105646) | Ghost | ReDoS (import) | -- |
+
+---
+
 ## 🧠 Interests
 
 Curiosity isn't a trait, it's a condition. I'm fascinated by how systems work - and obsessed with how they *break*.
@@ -82,7 +97,7 @@ Flags captured across **Africa**, **Europe**, and the **international CTF circui
 ---
 
 ## 📰 They're talking about me here 👇
-> - [Found my first CVE : Waiting for CVE ID](https://blog.spip.net/Mise-a-jour-critique-de-securite-sortie-de-SPIP-4-4-18.html)
+> - [SPIP 4.4.18 Critical Security Update (CVE-2026-72708 & CVE-2026-109378)](https://blog.spip.net/Mise-a-jour-critique-de-securite-sortie-de-SPIP-4-4-18.html)
 > - [Aurel Azon, porte-etendard d'EPITECH Benin a l'European CyberCup](https://epitech.bj/aurel-azon-porte-etendard-epitech-benin-european-cybercup/)
 > - [M3V7R - Cyberlympics 2023, nouvel accomplissement](https://epitech.bj/cyberlympics-2023-nouvel-accomplissement-des-etudiants-depitech-benin/)
 > - [Le Benin (M3V7R) remporte le 2e prix du Hackathon CEDEAO](https://www.24haubenin.info/?Le-Benin-remporte-le-2e-prix-du-Hackathon-CEDEAO)
