@@ -20,12 +20,12 @@ When I'm not competing, I hunt bugs in real-world software. Here's what's landed
 
 | CVE | Product | Class | Severity |
 |-----|---------|-------|----------|
-| [CVE-2026-72695](https://www.cve.org/CVERecord?id=CVE-2026-72695) | Grav (< 2.0.16) | Path Traversal | -- |
-| [CVE-2026-94382](https://www.cve.org/CVERecord?id=CVE-2026-94382) | Beszel (< 0.19.0) | IDOR | -- |
+| [CVE-2026-72695](https://www.cve.org/CVERecord?id=CVE-2026-72695) | Grav (< 2.0.16) | Path Traversal | N/A |
+| [CVE-2026-94382](https://www.cve.org/CVERecord?id=CVE-2026-94382) | Beszel (< 0.19.0) | IDOR | N/A |
 | [CVE-2026-72708](https://www.cve.org/CVERecord?id=CVE-2026-72708) | SPIP (< 4.4.18) | Blind SQL Injection | CVSS 4.0: 8.7 High |
 | [CVE-2026-109378](https://www.cve.org/CVERecord?id=CVE-2026-109378) | SPIP (< 4.4.18) | SSRF via HTTP Redirect | CVSS 4.0: 5.3 Medium |
-| [CVE-2026-105645](https://github.com/advisories?query=CVE-2026-105645) | Ghost | ReDoS (CSS inliner) | -- |
-| [CVE-2026-105646](https://github.com/advisories?query=CVE-2026-105646) | Ghost | ReDoS (import) | -- |
+| [CVE-2026-105645](https://github.com/advisories?query=CVE-2026-105645) | Ghost | ReDoS (CSS inliner) | N/A |
+| [CVE-2026-105646](https://github.com/advisories?query=CVE-2026-105646) | Ghost | ReDoS (import) | N/A |
 
 ---
 
